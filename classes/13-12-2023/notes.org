@@ -1,0 +1,12 @@
+* 13-12-2023
+
+1. Byteode
+2. JVM - Java Virtual Machine
+3. JRE - Java Runtime Environment
+4. java file and class file
+   1. Platform independent class file
+
+** TODO
+1. Difference between final class and regular class?
+2. Setup lsp
+3. Package setup

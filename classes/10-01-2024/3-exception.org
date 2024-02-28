@@ -1,0 +1,17 @@
+* Types of Errors
+
+Types
+1. Compile-time
+2. Run-time
+
+** Exception
+
+1. Run-time error.
+2. Is usually recoverable, or at least the reasons can be logged for
+   future investigation.
+
+
+* To Check
+1. Default stack size.
+2. Modifying stack size.
+3. Stack-frames.
